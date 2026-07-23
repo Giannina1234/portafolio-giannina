@@ -146,8 +146,8 @@ section{
 
 .Inicio-contenido {
     display: flex;
-    align-items: center;       /* centra vertical */
-    justify-content: space-between; /* separa texto e imagen */
+    align-items: center;       
+    justify-content: space-between; 
 }
 
 .Incio-texto{
