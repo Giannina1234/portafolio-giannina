@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../proyecto sms"
+		},
+		{
+			"path": "../Java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../ciber-idol"
+		},
+		{
+			"path": "../cootragal"
+		},
+		{
+			"path": "../practica bucle"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PORTAFOLIO GIANNINA"
+	}
+}
